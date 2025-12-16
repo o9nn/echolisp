@@ -4,6 +4,20 @@
 
 This repository is intended to host the EchoLisp implementation from http://www.echolalie.org/echolisp/.
 
+### Automated Sync (Recommended)
+
+The easiest way to initialize the repository is to use the included GitHub Actions workflow:
+
+1. Navigate to the **Actions** tab in this repository
+2. Select the **"Sync EchoLisp Content"** workflow
+3. Click **"Run workflow"** button
+4. The workflow will automatically:
+   - Download echolisp.zip from the official source
+   - Extract the contents to the repository
+   - Commit and push the changes
+
+The workflow also runs automatically on a weekly schedule to check for updates.
+
 ### Manual Initialization Steps
 
 If you have access to the official EchoLisp website, you can complete the repository initialization by following these steps:
