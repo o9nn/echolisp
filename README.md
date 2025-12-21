@@ -18,12 +18,14 @@ EchoLisp is a feature-rich Lisp dialect with:
 - **Documentation**: https://www.echolalie.org/echolisp/help.html
 - **Download**: http://www.echolalie.org/echolisp/echolisp.zip
 
-## Installation
+## Usage
 
-To run EchoLisp locally:
-1. Download the `echolisp.zip` file from the official website
-2. Extract the contents
-3. Open `index.html` in your web browser
+To run EchoLisp from this repository:
+1. Clone or download this repository
+2. Open `index.html` in your web browser
+3. Start coding in Scheme/Lisp!
+
+Alternatively, you can download the latest version directly from the [official website](http://www.echolalie.org/echolisp/)
 
 ## Automated Sync
 
@@ -40,4 +42,4 @@ To manually trigger the sync:
 
 ## Status
 
-**Note**: The repository content initialization is pending. A GitHub Actions workflow has been set up to automatically download the content when the echolalie.org domain becomes accessible.
+✅ **Ready to use!** The EchoLisp content has been successfully synced from the official source and is ready for offline use.
